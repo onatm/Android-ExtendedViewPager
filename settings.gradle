@@ -1,1 +1,1 @@
-include ':ExtendedViewPager'
+include ':ExtendedViewPager', ':sample'
